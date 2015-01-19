@@ -52,12 +52,14 @@ Sms Send Delay = how many seconds to send each sms
 Del Report Delday = stop recording after x amount of seconds the app has time to get delievery reports back(not needed for manual mode)
 
 FUTURE CODE
+
 1. start stop app when key changes for airprobe so you have the right key to decode sms data.
 
 2. create an android app to send sms and create timestamps for people that havent got a modem (not silent sms app just normal sms for a person you know and what to get tmsi)
 
 3. Connect Kraken to get key programmattically(not sure yet if its possible but would be nice) not live data of course.
 
-4. wait for Poitr/gr-gsm to add decoding block so gr-gsm and be used for debugging like the airprobe version can with this app with ths kc.
+4. wait for Poitr/gr-gsm to add decoding block so gr-gsm and be used for debugging like the airprobe version can with this app with the kc on other timeslots 2S etc.
 
 CODE COMMING SOON     
+Getting out hardcoded stuff and cleaning up code.
