@@ -21,7 +21,7 @@ WHAT HARDWARE DO YOU NEED?
 3. A usb dongle modem (search ebay for 3g usb dongle) This modem has to be able to use PDU mode (most do) The Modem I'm using for demos is Hauwei E173
 4. Some phones work as a usb modem samsung in particular, I'm using Samsung Pocket neo GT-5310 running Android V 4.1.2.
 
-Usb modem is more arracute as a tmsi sniffer becuase it stores the delivery reports on the sim card and the timestamps are used from these reports. The phone doesnt do this at the moment so I create one when I send each sms.
+Usb modem is more accurate as a tmsi sniffer becuase it stores the delivery reports on the sim card and the timestamps are used from these reports. The phone doesnt do this at the moment so I create one when I send each sms.
 
 WHAT CAN I DO WITH THIS APP?
 
@@ -29,7 +29,7 @@ WHAT CAN I DO WITH THIS APP?
 
 2. you can send silent/flash sms
 
-3. you can connect tmsi to a mobile number if target is on the same BTS and in GSM900/2G mode.
+3. you can connect/match tmsi to a mobile number if target is on the same BTS and in GSM900/2G mode.
 
     BUTTONS
     
@@ -58,6 +58,6 @@ FUTURE CODE
 
 3. Connect Kraken to get key programmattically(not sure yet if its possible but would be nice) not live data of course.
 
-4. wait for Poitr/gr-gsm to add decoding block so gr-gsm and be used for debugging like the airprobe version can with this app.
+4. wait for Poitr/gr-gsm to add decoding block so gr-gsm and be used for debugging like the airprobe version can with this app with ths kc.
 
 CODE COMMING SOON     
