@@ -8,7 +8,7 @@ About me & app
 
 Created this app to have everything in one place for gsm debugging:)
 
-Only programming in python for a couple of weeks so code is messy and I'm be no means a super programmer.
+Only programming in python for a couple of weeks so code is messy and I'm bY no means a super programmer.
 
 Ths app wouldn't be possible without the work of Poitr https://github.com/ptrkrysik/gr-gsm for creating the gsm-receiver program to capture and dump the data needed for this app to work so I'd like to thank him.
 
