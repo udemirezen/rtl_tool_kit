@@ -1,4 +1,9 @@
 # rtl_tool_kit
+
+VIDEO  http://youtu.be/X9tLkB9sccE Phone Version
+
+Dongle version comming soon.
+
 About me & app
 
 Created this app to have everything in one place for gsm debugging:)
