@@ -1,8 +1,8 @@
 # rtl_tool_kit
 
-PHONE VERSION will be up soon
+PHONE VERSION http://youtu.be/0jC_Gypt03Q
 
-USB MODEM DEMO. https://www.youtube.com/watch?v=TCQQ0zFjzZI
+USB MODEM DEMO https://www.youtube.com/watch?v=TCQQ0zFjzZI
 
 About me & app
 
