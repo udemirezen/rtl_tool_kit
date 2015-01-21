@@ -1,8 +1,8 @@
 # rtl_tool_kit
 
-VIDEO  http://youtu.be/X9tLkB9sccE Phone Version
+PHONE VERSION will be up soon filtering out imsi's
 
-Dongle version comming soon.
+USB MODEM DEMO. https://www.youtube.com/watch?v=TCQQ0zFjzZI
 
 About me & app
 
