@@ -1,6 +1,6 @@
 # rtl_tool_kit
 
-PHONE VERSION will be up soon filtering out imsi's
+PHONE VERSION will be up soon
 
 USB MODEM DEMO. https://www.youtube.com/watch?v=TCQQ0zFjzZI
 
