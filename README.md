@@ -59,7 +59,10 @@ FUTURE CODE
 
 3. Connect Kraken to get key programmattically(not sure yet if its possible but would be nice) not live data of course.
 
-4. wait for Poitr/gr-gsm to add decoding block so gr-gsm and be used for debugging like the airprobe version can with this app with the kc on other timeslots 2S etc.
+4. wait for Poitr/gr-gsm to add decoding block so gr-gsm can be used for debugging like the airprobe version can with this app with the kc on other timeslots 2S etc.
 
 CODE COMMING SOON     
 Getting out hardcoded stuff and cleaning up code.
+
+THANKS
+Respect to all the guys that created airprobe/osmocombb and other programs related to GSM, the stuff they are creating in amazing.
