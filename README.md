@@ -55,7 +55,7 @@ FUTURE CODE
 
 1. start stop app when key changes for airprobe so you have the right key to decode sms data.
 
-2. create an android app to send sms and create timestamps for people that havent got a modem (not silent sms app just normal sms for a person you know and what to get tmsi)
+2. create an android app to send sms and create timestamps for people that havent got a modem (not silent sms app just normal sms for a person you know and want to get tmsi)
 
 3. Connect Kraken to get key programmattically(not sure yet if its possible but would be nice) not live data of course.
 
@@ -66,4 +66,4 @@ Getting out hardcoded stuff and cleaning up code.
 
 THANKS
 
-Respect to all the guys that created airprobe/osmocombb and other programs related to GSM, the stuff they are creating in amazing.
+Respect to all the guys that created airprobe/osmocombb and other programs related to GSM, the stuff they are creating is amazing.
